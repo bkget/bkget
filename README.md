@@ -4,9 +4,9 @@
 I'm Biruk Getaneh from Ethiopia, and I do image processing and data analysis. I really enjoy learning data science. I also enjoy working with website design and development.  
 
 ## Skills
-* 💻 JS / HTML / CSS / PHP / 
+* 💻 JS / HTML / CSS / PHP 
 * 🐍 Python
-*  ![Uploading java.png…]() Java
+*  :java: Java
 
 
 
