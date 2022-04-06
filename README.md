@@ -5,10 +5,9 @@ I'm Biruk Getaneh from Ethiopia, and I do image processing and data analysis. I 
 
 ## Skills
 * 💻 JS / HTML / CSS / PHP / 
-* Python
-* JAVA 
+* 🐍 Python
+* ![Uploading java.png…]() Java
 
-- 🔭 I’m currently working on Image processing. 
 
 
 
