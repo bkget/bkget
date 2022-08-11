@@ -1,12 +1,36 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bkget&label=Profile%20views&color=0062ff&style=flat" alt="bkget" /> </p>
 
 <h1 align="center">Hi 👋, I'm Biruk Getaneh</h1>
+<h2 align="center">I'm a Data Engineer</h2>
 
--   🌱 I’m currently learning **Apache Kafka and Spark**
+- 🔭 Check out my Portfolio: [google_profile](https://sites.google.com/view/biruk-getaneh)!
+- 🌱 I’m currently learning Data Engineering best practices & Advanced SQL Programming
+- 👯 I’m looking to collaborate with other developers
 
--   💬 Ask me about **python**
+### Connect with me:
 
-- 📫 How to reach me **bkgetmom@gmail.com**
+
+[![website](./img/twitter-light.svg)](https://twitter.com/biruk__getaneh#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/biruk__getaneh#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bkget/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bkget/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-light-mode-only)
+[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-dark-mode-only)
+
+### Connect with me:
+
+
+[![website](./img/twitter-light.svg)](https://twitter.com/biruk__getaneh#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/biruk__getaneh#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bkget/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bkget/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-light-mode-only)
+[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-dark-mode-only)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
