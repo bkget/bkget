@@ -10,26 +10,15 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/biruk__getaneh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/biruk__getaneh#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bkget/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bkget/#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-light-mode-only)
 [![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-dark-mode-only)
-
-### Connect with me:
-
-
+&nbsp;&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/biruk__getaneh#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/biruk__getaneh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bkget/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bkget/#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;
-[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-light-mode-only)
-[![website](./img/medium-light5.svg)](https://medium.com/@birukgetaneh#gh-dark-mode-only)
 
 
 <h3 align="left">Connect with me:</h3>
